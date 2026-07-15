@@ -17,6 +17,7 @@ This portfolio was created for the **ESIIL Data Short Course**.
 ## Course Logo
 
 ![Course logo](https://esiil.org/sites/default/files/Final_ESIIL%20Wordmark%20Color_0.png)
+![ESIIL](/IMG/ESIIL_Image.png) 
 
 ## My GitHub Profile
 
