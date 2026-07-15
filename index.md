@@ -8,7 +8,7 @@ Welcome to my portfolio website.
 
 ## About Me
 
-I am a graduate student with a master's degree in Applied Ecohydrology and a bachelor's in Environmental Engineering. My academic and professional interests include Water resources management, engineering, technology, and data analysis.
+I am a graduate student with a master's degree in Applied Ecohydrology [MAEH](https://maeh-mundus.eu/)  and a bachelor's in Environmental Engineering. My academic and professional interests include Water resources management, engineering, technology, and data analysis.
 
 ## Course Information
 
