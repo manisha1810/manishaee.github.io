@@ -14,6 +14,10 @@ I am a graduate student with a master's degree in Applied Ecohydrology [MAEH](ht
 
 This portfolio was created for the **ESIIL Data Short Course**.
 
+## Course Information
+
+![Course logo](https://esiil.org/sites/default/files/Final_ESIIL%20Wordmark%20Color_0.png)
+
 ## My GitHub Profile
 
 [Visit my GitHub profile](https://github.com/manisha1810)
