@@ -18,9 +18,6 @@ This portfolio was created for the **ESIIL Data Short Course**.
 
 [Visit my GitHub profile](https://github.com/manisha1810)
 
-## Projects
-
-Projects and course assignments will be added here during the semester.
 
 ## Contact
 
