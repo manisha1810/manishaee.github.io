@@ -19,9 +19,9 @@ This portfolio was created for the **ESIIL Data Short Course**.
 ![Course logo](https://esiil.org/sites/default/files/Final_ESIIL%20Wordmark%20Color_0.png)
 
 ## Maps
-(https://github.com/manisha1810/manishaee.github.io/blob/main/IMG/cu_map.html)
 
 <embed type="text/html" src="/IMG/cu_map.html" height="650" width="850"> 
+
 ## My GitHub Profile
 
 [Visit my GitHub profile](https://github.com/manisha1810)
