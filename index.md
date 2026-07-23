@@ -21,6 +21,7 @@ This portfolio was created for the **ESIIL Data Short Course**.
 ## Maps
 
 <embed type="text/html" src="/IMG/cu_map.html" height="650" width="850">
+<embed type="text/html" src="/IMG/boulder_plot.html" width="600" height="600">
 
 ## My GitHub Profile
 
